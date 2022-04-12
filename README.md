@@ -11,3 +11,7 @@ comando git crear una rama nueva a partir de la rama actual
 
  comando pasarse a una rama existente
   git checkout  main
+
+  video guia 
+  https://www.youtube.com/watch?v=HH_SMpxV7qQ
+  
