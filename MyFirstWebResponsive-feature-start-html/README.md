@@ -15,3 +15,8 @@ comando git crear una rama nueva a partir de la rama actual
   video guia 
   https://www.youtube.com/watch?v=HH_SMpxV7qQ
   
+  Video guía nth-child
+  https://www.youtube.com/watch?v=AaHmVt3e4IY&ab_channel=WmediaporJuanAndr%C3%A9sN%C3%BA%C3%B1ez
+
+  waves
+  https://smooth.ie/blogs/news/svg-wavey-transitions-between-sections
